@@ -9,6 +9,9 @@ excerpt_separator: <!--more-->
 
 **რიცხვი - პროცენტი.**
 
+
+
+
 <table>
 <tbody>
 
