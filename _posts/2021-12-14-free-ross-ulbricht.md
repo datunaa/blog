@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 * TOC
 {:toc}
 
-**FreeRossDAO raised $14m.**
+**FreeRossDAO - Deliver Assange from the hands of oppression. **
 
 
 
@@ -41,8 +41,6 @@ FreeRossDAO raised $14m.
 FreeAssangeDAO needs a simple 6x to become the biggest.
 
 The cypherpunks are here to rescue the original old-school cypherpunk.
-
-Deliver Assange from the hands of oppression. 
 
 
 ## Invitation <!--more-->
