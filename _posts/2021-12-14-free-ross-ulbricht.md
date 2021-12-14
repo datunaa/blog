@@ -6,6 +6,9 @@ author: dshubitidze
 excerpt_separator: <!--more-->
 ---
 
+* TOC
+{:toc}
+
 **FreeRossDAO raised $14m.**
 
 # Who Is ROSS ULBRICHT <!--more-->
