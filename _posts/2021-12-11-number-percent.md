@@ -6,12 +6,11 @@ author: dshubitidze
 excerpt_separator: <!--more-->
 ---
 
+
+**რიცხვი - პროცენტი.**
+
 <table>
 <tbody>
-<tr>
-<td align="middle" colspan="2"><strong class="textheader">რიცხვი - პროცენტი <br>
-&nbsp;</strong> </td>
-</tr>
 
 <tr align="middle">
 <td colspan="2"><a class="commonlink" href="#anchor1">პროცენტის ცნება </a> | <a class="commonlink" href="#anchor2">პროცენტის გამოთვლა</a> | <a class="commonlink" href="#anchor3">პროცენტული ზრდა ან კლება </a> <br>
