@@ -6,7 +6,10 @@ thumbnail: "assets/img/feature-img/uncensoredlibrary.png"
 tags: [uncensored, library]
 ---
 
-{% youtube EBI7-pL52GY %}
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/EBI7-pL52GY" frameborder="0" allowfullscreen></iframe>
+
+
 
 ზოგიერთი ქვეყნის მთავრობა ინფორმაციის ცენზურის მიზნით მოქალაქეებს
 ახალი ამბების ვებგვერდებსა და სოციალურ ქსელებზე წვდომას უზღუდავს.
