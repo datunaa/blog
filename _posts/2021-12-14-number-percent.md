@@ -6,7 +6,7 @@ author: dshubitidze
 excerpt_separator: <!--more-->
 ---
 
-<table cellspacing="0" cellpadding="4" width="100%" border="0">
+<table>
 <tbody>
 <tr>
 <td align="middle" colspan="2"><strong class="textheader">რიცხვი - პროცენტი <br>
