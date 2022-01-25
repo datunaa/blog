@@ -14,9 +14,9 @@ NVIDIA would like you to buy their new [DIGITS Devbox](https://developer.nvidia.
 
 {% include aligner.html images="pexels/build.png" column=1 %}
 
-# GPUs
+# [GPUs](https://www.amazon.com/dp/B00UXTN5P0/ref=twister_B00XR0A96U?_encoding=UTF8&psc=1)
 Probably the most important and most expensive part of your build will be the GPUs, and for good reason. GPUs are more than 100x faster for training and testing neural networks than a CPU. The bulk of our computation will be multiplying big matrices together so we want a card with high single precision performance.
-[{% include aligner.html images="pexels/evga_titan_x_1.png" column=1 %}](https://www.amazon.com/dp/B00UXTN5P0/ref=twister_B00XR0A96U?_encoding=UTF8&psc=1)
+{% include aligner.html images="pexels/evga_titan_x_1.png" column=1 %}
 
 ### Titan X
 This is probably what you want. Designed to be NVIDIA's highest-end gaming GPU, they pack almost 7 TFLOPS of processing power for only $1,000 and you can fit 4 of them into a single machine. With 12 GB of VRAM they can run all the big models with plenty of room to spare.
@@ -37,37 +37,37 @@ Other high end GTX cards like the 980 and 980 Ti get good single precision perfo
 From an efficiency standpoint the 980 Ti comes out ahead. However, you do make some sacrifices: only 6 GB of VRAM and slower overall performance. If you are strapped for cash I'd say the 980 Ti is a good option. The main takeaway is do not, for any reason, get Teslas. They are crazy expensive for what you get out. If you want overall processing power in one box than Titan X's are the best option.
 
 
-# Motherboard: GIGABYTE GA-X99-UD3P
-[{% include aligner.html images="pexels/Gigabyte-GA-Z97X-Gaming-G1-WiFi-Black-Edition_1.png" column=1 %}](http://www.newegg.com/Product/Product.aspx?Item=N82E16813128772)
+# [Motherboard: GIGABYTE GA-X99-UD3P](http://www.newegg.com/Product/Product.aspx?Item=N82E16813128772)
+{% include aligner.html images="pexels/Gigabyte-GA-Z97X-Gaming-G1-WiFi-Black-Edition_1.png" column=1 %}
 
 The most important aspect of the motherboard is that it can fit all the cards you want into it. Whatever you pick, make sure it can support 4 cards. In general look for high end gaming motherboards. With enough space for 4 double-wide cards.
 
 
-# CPU: Intel Core i7-5820K
-[{% include aligner.html images="pexels/cpu-i7-5820k.png" column=1 %}](https://www.newegg.com/intel-core-i7-4th-gen-core-i7-5820k/p/N82E16819117402)
+# [CPU: Intel Core i7-5820K](https://www.newegg.com/intel-core-i7-4th-gen-core-i7-5820k/p/N82E16819117402)
+{% include aligner.html images="pexels/cpu-i7-5820k.png" column=1 %}
 You don't need a great CPU, but you might as well get one! With 12 effective cores this is a pretty good option.
 
 
-# Power Supply: Rosewill Hercules
-[{% include aligner.html images="pexels/psu-1600w.png" column=1 %}](https://www.newegg.com/rosewill-hercules-1600s-1600w/p/N82E16817182251)
+# [Power Supply: Rosewill Hercules](https://www.newegg.com/rosewill-hercules-1600s-1600w/p/N82E16817182251)
+{% include aligner.html images="pexels/psu-1600w.png" column=1 %}
 Each of our cards will draw around 250 watts and the rest of our computer might need some too. This means we need over a kilowatt of power! To be safe, I'd go with a real monster power supply, like the [Rosewill Hercules 1600W](https://www.newegg.com/rosewill-hercules-1600s-1600w/p/N82E16817182251). It's got a ton of power; the only issue is it's big! I had to take out a fan holder from my case to fit it in.
 
 
-# Memory: G.SKILL Ripjaws 4 Series 32GB
-[{% include aligner.html images="pexels/RAM.png" column=1 %}](https://www.newegg.com/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820231796)
+# [Memory: G.SKILL Ripjaws 4 Series 32GB](https://www.newegg.com/g-skill-32gb-288-pin-ddr4-sdram/p/N82E16820231796)
+{% include aligner.html images="pexels/RAM.png" column=1 %}
 Lots of cheap memory. 32 GB should be sufficient, even though it means we have less RAM than VRAM!
 
 
-# SSD: SAMSUNG 870 QVO Series 2.5" 1TB - MLC
-[{% include aligner.html images="pexels/ssd.png" column=1 %}](https://www.newegg.com/samsung-1tb-870-qvo-series/p/20-147-781)
+# [SSD: SAMSUNG 870 QVO Series 2.5" 1TB - MLC](https://www.newegg.com/samsung-1tb-870-qvo-series/p/20-147-781)
+{% include aligner.html images="pexels/ssd.png" column=1 %}
 
 You could spend a lot of money getting a 9 TB RAID setup like NVIDIA's devbox, or you could just buy one SSD. It's still a good idea to have a backup hard drive, either in the same machine or by syncing your trained models remotely. But this one SSD will be more than sufficient to store and serve your data, even to 4 GPUs simultaneously. I can run 4 of my fastest Imagenet models simultaneously off of this one disk without any delay in training. That means it's loading around 1,000 images (about 16 MB) per second! Since most models are larger anyway nowadays loading from disk will not be your bottleneck.
 The only downside is size. If you are dealing with really large datasets you may want a larger hard drive for storing the data on before you preprocess it.
 
 
-# Case: Rosewill Thor V2
+# [Case: Rosewill Thor V2](https://www.newegg.com/p/N82E16811147158)
 
-[{% include aligner.html images="pexels/case-rosewill-tor-v2.png" column=1 %}](https://www.newegg.com/p/N82E16811147158)
+{% include aligner.html images="pexels/case-rosewill-tor-v2.png" column=1 %}
 This probably matters the least but it sure looks cool! You really just need a case large enough to fit all of your components comfortably. 4 GPUs take up a lot of space! You also want something cool. The Rosewill Thor packs 4 fans preinstalled and enough room that you don't have to worry about good cable management which is nice because i'm terrible with cables. It's also very highly reviewed and pretty cheap.
 
 
