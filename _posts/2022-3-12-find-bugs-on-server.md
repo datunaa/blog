@@ -142,7 +142,7 @@ tags: [hack, bug finder]
 
 
 <p style="margin-left: 18pt; text-align: center;">
-	<img width="703" height="263" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check.png" class="lazyloaded" data-ll-status="loaded"><noscript><img width="703" height="263" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check.png"></noscript></p>
+	<img width="703" height="263" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check.png" class="lazyloaded" data-ll-status="loaded"><noscript><img width="703" height="263" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check.png"></noscript></p>
 <ul>
 <li>
 		Click on Check button</li>
@@ -150,7 +150,7 @@ tags: [hack, bug finder]
 		You will get the following results</li>
 </ul>
 <p style="margin-left: 18pt; text-align: center;">
-	<img width="712" height="673" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check1.png" class="lazyloaded" data-ll-status="loaded"><noscript><img width="712" height="673" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check1.png"></noscript></p>
+	<img width="712" height="673" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check1.png" class="lazyloaded" data-ll-status="loaded"><noscript><img width="712" height="673" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check1.png"></noscript></p>
 <p><strong>Based on the above results, the IP address of the target is 69.195.124.112</strong></p>
 <p>We also found out that there are 403 domains on the same web server.</p>
 <p>Our next step is to scan the other websites for<a href="/sql.html" onclick="ga('send', 'event', 'internal_linking', 'How to Hack a Web Server', 'How to Hack a Web Server');" data-lasso-id="199689"> SQL </a>injection vulnerabilities. Note: if we can find a SQL vulnerable on the target, then we would directly exploit it without considering other websites.</p>
@@ -170,7 +170,7 @@ tags: [hack, bug finder]
 </ul>
 <p>You will get the following results</p>
 <p style="text-align: center;">
-	<img width="643" height="649" title="How to hack a Web Server" alt="How to hack a Web Server" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20649'%3E%3C/svg%3E" data-lazy-src="pexels/Reverse_ip_domain_check2.png"><noscript><img width="643" height="649" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check2.png"></noscript></p>
+	<img width="643" height="649" title="How to hack a Web Server" alt="How to hack a Web Server" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20649'%3E%3C/svg%3E" data-lazy-src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check2.png"><noscript><img width="643" height="649" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check2.png"></noscript></p>
 <p>As you can see from the above results, all the websites using GET variables as parameters for SQL injection have been listed.</p>
 <p>The next logic step would be to scan the listed websites for SQL Injection vulnerabilities. You can do this using manual SQL injection or use tools listed in this article on SQL Injection.</p>
 <h3>Uploading the PHP Shell</h3>
@@ -182,7 +182,7 @@ tags: [hack, bug finder]
 		You will get the following window</li>
 </ul>
 <p style="margin-left: 18pt; text-align: center;">
-	<img width="842" height="323" title="How to hack a Web Server" alt="How to hack a Web Server" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20842%20323'%3E%3C/svg%3E" data-lazy-src="pexels/Reverse_ip_domain_check3.png"><noscript><img width="842" height="323" title="How to hack a Web Server" alt="How to hack a Web Server" src="pexels/Reverse_ip_domain_check3.png"></noscript></p>
+	<img width="842" height="323" title="How to hack a Web Server" alt="How to hack a Web Server" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20842%20323'%3E%3C/svg%3E" data-lazy-src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check3.png"><noscript><img width="842" height="323" title="How to hack a Web Server" alt="How to hack a Web Server" src="https://raw.githubusercontent.com/dshubitidze/blog/main/assets/img/pexels/Reverse_ip_domain_check3.png"></noscript></p>
 <ul>
 <li>
 		Clicking the Symlink URL will give you access to the files in the target domain.</li>
