@@ -7,18 +7,7 @@ tags: [hack, bug finder]
 ---
 
 <div class="entry-content single-content">
-	<div class="code-block code-block-1" style="margin: 8px 0; clear: both;">
-<style>
-@media(min-width: 520px){.responsive-david-mobile1 { float:left;min-height: 280px; } }
-@media(max-width: 519px){.responsive-david-mobile1 {min-height: 280px !important; }}
-@media(max-width: 499px){.responsive-david-mobile1{display: none !important;}}
-@media(max-width: 499px){.responsive-david-mobile12 {margin-right:6px;width:345px;min-height:100px;} }
-</style>
 
-
-
-
-</div>
 <p>Customers usually turn to the internet to get information and buy products and services. Towards that end, most organizations have websites.<strong>Most websites store valuable information such as credit card numbers, email address and passwords, etc</strong>. This has made them targets to attackers. Defaced websites can also be used to communicate religious or political ideologies etc.</p>
 <p>In this tutorial, we will introduce you toweb servers hacking techniques and how you can protect servers from such attacks.</p>
 <p>In this tutorial, you will learn:</p>
@@ -214,52 +203,4 @@ tags: [hack, bug finder]
 </ul>
 
 
-<style>
-  .sponsorship-message {
-    color: #aaa;
-    padding: 40px 30px 30px 30px;
-    text-align: center;
-    width: 100%;
-}
-.sponsorship-message .contents {
-    margin: 0 auto;
-    max-width: 1050px;
-}  
-  .sponsorship-message .message-box {
-    font-size: 15px;
-    max-width: 450px;
-    margin: 0 auto;
-    padding: 30px 40px;
-    background: #f1f1f1;
-    border-radius: 5px;
-    -ms-box-shadow: inset 0 1px 0 #bbb;
-    -o-box-shadow: inset 0 1px 0 #bbb;
-    box-shadow: inset 0 1px 0 #bbb;
-}
-.sponsorship-message .message-box .title {
-    padding-bottom: 16px;
-    font-weight: bold;
-}  
-.sponsorship-message .message-box .blurb {
-    padding-bottom: 20px;
-}
-.btn{
-   font-weight: 400;
-    background: #04b8e6;
-    border: 1px solid #04b8e6;
-    color: #fff;
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    line-height: 1.8;
-    margin: 0 0 0.5rem 0;
-    padding: 0.8rem 1.8rem;
-    border-radius: 2px; 
-}  
-a:hover.btn {
-background: #04b8e6 !important;
-color:#fff;
-}  
-</style>
-
-<!-- AI CONTENT END 1 -->
 </div>
